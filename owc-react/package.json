@@ -8,10 +8,11 @@
     "@testing-library/user-event": "^12.2.2",
     "@vaadin/vaadin-button": "^2.4.0",
     "@webcomponents/webcomponentsjs": "^2.5.0",
-    "owc-button": "^1.0.0",
+    "owc-custom-button": "^1.0.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.0",
+    "react-test-renderer": "^17.0.1",
     "vendor-copy": "^2.0.0",
     "web-vitals": "^0.2.4"
   },

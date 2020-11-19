@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home snapshot should match 1`] = `
+<div
+  className="button__container"
+>
+  <owc-button
+    label="click me"
+  />
+</div>
+`;

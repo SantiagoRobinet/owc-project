@@ -1,13 +1,12 @@
 import React from 'react';
 import './Home.css'
-import 'owc-button/owcButton.js'
-import 'owc-button/buttonAttributes.js'
+import 'owc-custom-button'
 
 function HomeComponent (){
 
     return(
         <div className="button__container">
-            <owc-button></owc-button>
+            <owc-button label="click me"></owc-button>
         </div>
     )
 }
