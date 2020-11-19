@@ -7708,6 +7708,11 @@ os-tmpdir@~1.0.2:
   resolved "https://registry.yarnpkg.com/os-tmpdir/-/os-tmpdir-1.0.2.tgz#bbe67406c79aa85c5cfec766fe5734555dfa1274"
   integrity sha1-u+Z0BseaqFxc/sdm/lc0VV36EnQ=
 
+owc-button@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/owc-button/-/owc-button-1.0.0.tgz#7ace5f56080f28df3db5295954d8f41cc78ddd46"
+  integrity sha512-nxl5dD7Ira+3Ttk5gDn0Z1AIbO2dVv5UthSqWrL9n2zQ95OfKUNnv5FjTd4i3Jmiq2ykjOMl/4t/BTdPHUOzvA==
+
 p-each-series@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/p-each-series/-/p-each-series-1.0.0.tgz#930f3d12dd1f50e7434457a22cd6f04ac6ad7f71"
