@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import 'owc-button';
 
 @Component({
   selector: 'app-home',
