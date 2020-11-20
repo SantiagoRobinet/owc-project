@@ -14,7 +14,7 @@
 
 - **face**: [ fill, outline, text, raised ] <<<
 
-- **disabled**: [ true, false ] <<<
+- **disabled**: [ true ] (delete attrib to remove) <<<
 
 - **color (_background_)**: color name, rgb or #code
 
